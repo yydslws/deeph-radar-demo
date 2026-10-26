@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yydslws.github.io/deeph-radar-demo/sitemap.xml
